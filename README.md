@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **html, css, react, JavaScript**
 
-- 📫 How to reach me **stefaniascuncia@gmail.com**
+- 📫 How to reach me **stefiscuncia@gmail.com**
 
 - ⚡ Fun fact **I'm an Aquarius**
 
