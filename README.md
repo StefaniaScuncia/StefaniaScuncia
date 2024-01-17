@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQF5uvQCGUNn6Q/profile-displaybackgroundimage-shrink_350_1400/0/1696299914854?e=1710979200&v=beta&t=qP0wZoRNmt55_whhy9ziM7zPRVNXXfE7ybM2LdEy25I)
 <h1 align="center">Hi 👋, I'm Stefania</h1>
 <h3 align="center">A Junior Frontend Developer and UX/UI Design student from Argentina.</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBkbnUwZWhoY3c5a2R4bG9vaDY2eGluMmhqMzgzaXhjc2dkMzIybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif"  >
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_400.gifv"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefaniascuncia&label=Profile%20views&color=0e75b6&style=flat" alt="stefaniascuncia" /> </p>
 
